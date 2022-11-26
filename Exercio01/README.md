@@ -24,7 +24,7 @@ double measure = 53.234567;
 
 Products:
 
-computer, which price is $ 2100,00
+Computer, which price is $ 2100,00
 
 Office desk, which price is $ 650,50
 
@@ -38,3 +38,5 @@ Rouded (three decimal places): 53,235
 
 US decimal point: 53.235
 
+# Resultado:
+![img.png](img.png)
