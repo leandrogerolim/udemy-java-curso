@@ -13,5 +13,6 @@ public class Main {
         double valorTotal = 3.14159 *raio;
 
         System.out.printf("A = %.4f ", valorTotal);
+
     }
 }
