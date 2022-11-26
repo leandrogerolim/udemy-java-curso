@@ -1,5 +1,6 @@
-##Exercício de fixação:
-Em um novo programa inicia as seguintes variáveis:
+# Exercício de fixação:
+
+### 1. Em um novo programa inicia as seguintes variáveis:
 
 String product1 = "Computer";
 
@@ -19,8 +20,7 @@ double measure = 53.234567;
 
 
 
-Em seguida, usando os valores das variáveis, produza a seguinte saida na tela 
-do console:
+### 2. Em seguida, usando os valores das variáveis, produza a seguinte saida na tela do console:
 
 Products:
 
