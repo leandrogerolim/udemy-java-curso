@@ -44,4 +44,14 @@ Entrada: 5 6 -7 8 Saída: DIFERENCA = 86
 
 ![image](https://user-images.githubusercontent.com/92825608/204142632-cb3d446d-c3b0-42ea-a96a-bd860efaeb7b.png) / ![image](https://user-images.githubusercontent.com/92825608/204142660-e276c474-a8e1-4205-beb4-be3a467ecd0b.png)
 
+***********************************************************************************************************************************************
+
+### Exercício 04
+Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+
+Entrada: 25 , 100 , 5.50 Saída: NUMBER = 25 SALARY = U$ 550.00
+
+Entrada: 1 , 200 , 20.50 Saída: NUMBER = 1 SALARY = U$ 4100.00
+
+Entrada: 6 , 145 , 15.55 Saída: NUMBER = 6 SALARY = U$ 2254.75
 
