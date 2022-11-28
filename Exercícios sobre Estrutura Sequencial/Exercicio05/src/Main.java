@@ -10,7 +10,7 @@ public class Main {
         int quantidade1 = sc.nextInt();
         double valor1 = sc.nextDouble();
         double total1 = quantidade1 * valor1;
-        System.out.println("Proxímo item, digite o código, quantidade e valor unitário: ");
+        System.out.println("Próxímo item, digite o código, quantidade e valor unitário: ");
 
         int item2 = sc.nextInt();
         int quantidade2 = sc.nextInt();
