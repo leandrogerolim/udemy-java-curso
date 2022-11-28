@@ -58,3 +58,41 @@ Entrada: 6 , 145 , 15.55 Saída: NUMBER = 6 SALARY = U$ 2254.75
 ### Resultado: 
 ![image](https://user-images.githubusercontent.com/92825608/204144032-6be656a6-2682-4fe1-8327-c272c69feab8.png) / ![image](https://user-images.githubusercontent.com/92825608/204144071-7937f629-62e2-4b80-b424-7dfbdaa82db6.png) / ![image](https://user-images.githubusercontent.com/92825608/204144183-76f10f45-b775-4fac-ad18-1dd63a3d97bf.png)
 
+***********************************************************************************************************************************************
+
+### Exercício 05
+Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
+
+Entrada: 
+
+12 1 5.30
+
+16 2 5.10
+
+Saída: VALOR A PAGAR: R$ 15.50
+
+Entrada: 
+
+13 2 15.30 
+
+161 4 5.20
+
+Saída: VALOR A PAGAR: R$ 51.40
+ 
+Entrada: 
+
+1 1 15.10
+
+2 1 15.10
+
+Saída: VALOR A PAGAR: R$ 30.20
+
+### Resultado: 
+
+![image](https://user-images.githubusercontent.com/92825608/204288776-503db5eb-b4fb-427a-a6bf-f8bb7475f52c.png) / ![image](https://user-images.githubusercontent.com/92825608/204288998-e87c81a6-845b-479b-aaae-7f19e7eff0a4.png)  ![image](https://user-images.githubusercontent.com/92825608/204289282-fc42c1f2-3787-47aa-8dde-047fea0b6144.png)
+
+***********************************************************************************************************************************************
+
+
+
+
