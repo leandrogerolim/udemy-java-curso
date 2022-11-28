@@ -55,3 +55,6 @@ Entrada: 1 , 200 , 20.50 Saída: NUMBER = 1 SALARY = U$ 4100.00
 
 Entrada: 6 , 145 , 15.55 Saída: NUMBER = 6 SALARY = U$ 2254.75
 
+### Resultado: 
+![image](https://user-images.githubusercontent.com/92825608/204144032-6be656a6-2682-4fe1-8327-c272c69feab8.png) / ![image](https://user-images.githubusercontent.com/92825608/204144071-7937f629-62e2-4b80-b424-7dfbdaa82db6.png) / ![image](https://user-images.githubusercontent.com/92825608/204144183-76f10f45-b775-4fac-ad18-1dd63a3d97bf.png)
+
