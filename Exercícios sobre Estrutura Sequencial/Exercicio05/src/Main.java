@@ -19,6 +19,7 @@ public class Main {
 
         double valorTotal = total1 + total2;
 
+
         System.out.printf("VALOR A PAGAR: R$ %.2f" , valorTotal);
 
 
