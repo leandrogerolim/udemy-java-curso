@@ -29,4 +29,7 @@ Entrada: 0 Saída: PAR
 
 ### Resultado: 
 
+![image](https://user-images.githubusercontent.com/92825608/204931031-972bb49e-3bed-44e4-b7b8-c909282ce3d5.png) / ![image](https://user-images.githubusercontent.com/92825608/204931086-373b214d-802c-46e9-9757-270b6b94d31a.png) / ![image](https://user-images.githubusercontent.com/92825608/204931139-556e0430-98e3-4e8f-ad39-c3cbbcaa9b7a.png)
+
+
 *******
