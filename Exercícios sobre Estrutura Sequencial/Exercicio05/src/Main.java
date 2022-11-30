@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
 
-
         Scanner sc = new Scanner(System.in);
 //erro da variavel nunca usada
         int item1 = sc.nextInt();
