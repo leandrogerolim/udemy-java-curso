@@ -16,7 +16,6 @@ public class Main {
         int quantidade2 = sc.nextInt();
         double valor2 = sc.nextDouble();
         double total2 = quantidade2 * valor2;
-
         double valorTotal = total1 + total2;
 
 
