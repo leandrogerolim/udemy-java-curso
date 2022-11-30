@@ -13,7 +13,7 @@ public class Main {
         double valor1 = sc.nextDouble();
         double total1 = quantidade1 * valor1;
         System.out.println("Próxímo item, digite o código, quantidade e valor unitário: ");
-
+//erro da variavel nunca usada
         int item2 = sc.nextInt();
         int quantidade2 = sc.nextInt();
         double valor2 = sc.nextDouble();
