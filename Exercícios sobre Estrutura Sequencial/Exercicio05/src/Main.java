@@ -7,7 +7,7 @@ public class Main {
 
 
         Scanner sc = new Scanner(System.in);
-
+//erro da variavel nunca usada
         int item1 = sc.nextInt();
         int quantidade1 = sc.nextInt();
         double valor1 = sc.nextDouble();
