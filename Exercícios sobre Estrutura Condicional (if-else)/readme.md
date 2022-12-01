@@ -46,5 +46,8 @@ Entrada: 24 6 Saída: São Múltiplos
 
 ### Resultado: 
 
+![image](https://user-images.githubusercontent.com/92825608/204954346-73805f11-59fd-413e-8bc6-e8e8a73d8311.png) / ![image](https://user-images.githubusercontent.com/92825608/204954403-3e62d44a-973b-439c-a848-1aa87a964e81.png) / ![image](https://user-images.githubusercontent.com/92825608/204954510-2a9840d6-0ec2-409d-8ee8-c0b19ae60b7d.png) / ![image](https://user-images.githubusercontent.com/92825608/204954630-2aa0ab36-ddd3-4522-8be1-c323d442c743.png)
+
+
 *******
 
