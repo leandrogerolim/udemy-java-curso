@@ -14,10 +14,12 @@ public class Main {
             System.out.println("São Múltiplos");
 
 
+
         } else if (valorA > valorB) {
             aux = valorB;
             auxB = valorA;
             valorMultiplo = auxB % aux;
+
 
             if (valorMultiplo == 0) {
                 System.out.println("São Múltiplos");
