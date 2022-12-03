@@ -30,6 +30,10 @@ public class Main {
             }
             }else{
             System.out.println("Não são Múltiplos");
+
+
+            //salvar
         }
+
     }
 }
