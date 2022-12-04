@@ -102,3 +102,24 @@ Entrada: -25.02 Saída: Fora de intervalo
 ![image](https://user-images.githubusercontent.com/92825608/205504411-d5bbb22d-0c5d-415f-a6e6-488921f57648.png) / ![image](https://user-images.githubusercontent.com/92825608/205504425-fb529f76-322d-4300-ab1c-9123d6185c0c.png) / ![image](https://user-images.githubusercontent.com/92825608/205504445-94768e60-2128-4ea6-a04a-a8855c6a8362.png) / ![image](https://user-images.githubusercontent.com/92825608/205504478-2e5f605c-feb3-4bab-8a76-c64c6ce007eb.png)
 
 *******
+
+### Exercício 07
+
+Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o
+ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0). Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
+
+Exemplos:
+
+Entrada: 4.5 -2.2  Saída: Q4 
+
+Entrada: 0.1 0.1 Saída: Q1
+
+Entrada: 0.0 0.0 Saída: Origem
+
+### Resultado:
+
+![image](https://user-images.githubusercontent.com/92825608/205505422-d1b046f4-f7cf-489a-9b98-3821857c01c1.png) / ![image](https://user-images.githubusercontent.com/92825608/205505450-c2d5a92d-2f85-47ff-b29c-c92d25579d2e.png) / ![image](https://user-images.githubusercontent.com/92825608/205505468-ff5fcf87-4d1c-4c61-bed0-7bcb38576281.png) / ![image](https://user-images.githubusercontent.com/92825608/205505483-a2ade543-1e12-4eb8-8e44-46fec78d5f96.png)
+
+*******
+
+
