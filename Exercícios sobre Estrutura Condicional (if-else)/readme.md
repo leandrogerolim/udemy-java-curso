@@ -51,3 +51,21 @@ Entrada: 24 6 Saída: São Múltiplos
 
 *******
 
+### Exercício 04
+
+Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
+
+Entrada: 16  2  Saída: O JOGO DUROU 10 HORA(S) 
+
+Entrada: 0 0 Saída: O JOGO DUROU 24 HORA(S)
+
+Entrada: 2 16 Saída: O JOGO DUROU 14 HORA(S)
+
+### Resultado: 
+
+![image](https://user-images.githubusercontent.com/92825608/205502410-f5376858-ec80-48b3-97f1-76515b0f87dc.png)
+/ ![image](https://user-images.githubusercontent.com/92825608/205502430-f3b539c4-455d-4bdf-87e4-6aa80f661d7e.png)
+ / ![image](https://user-images.githubusercontent.com/92825608/205502450-e1996589-2de0-4a4e-8012-2e49db70bb55.png)
+
+
+*******
