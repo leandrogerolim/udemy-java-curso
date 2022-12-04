@@ -7,9 +7,17 @@ public class Main {
         int horaInicio = sc.nextInt();
         int horaFinal = sc.nextInt();
 
+        int total;
 
-        int horaTotal = horaFinal - horaInicio;
+        if (horaInicio < horaFinal) {
+            total = horaFinal - horaInicio;
+            System.out.println("O JOGO DUROU " + total +" HORA(S);");
 
-        System.out.println(horaTotal);
+        } else {
+
+            total = 24 - horaInicio + horaFinal;
+
+            System.out.println("O JOGO DUROU " + total +" HORA(S);");
+        }
     }
 }
