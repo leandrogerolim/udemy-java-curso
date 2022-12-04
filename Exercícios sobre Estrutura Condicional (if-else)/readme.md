@@ -83,8 +83,22 @@ Entrada: 2 3 Saída: Total: R$ 13.50
 ![image](https://user-images.githubusercontent.com/92825608/205503354-5c4dd176-1414-465e-ae01-ec561459695c.png) / ![image](https://user-images.githubusercontent.com/92825608/205503512-aca4f32d-7b04-4474-ba0e-c3abb87d2f66.png)
 
 
-
-
-
 *******
 
+### Exercício 06
+
+Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
+
+Entrada: 25.01 Saída: Intervalo (25,50]
+
+Entrada: 25.00 Saída: Intervalo [0,25]
+
+Entrada: 100.00 Saída: Intervalo (75,100]
+
+Entrada: -25.02 Saída: Fora de intervalo
+
+### Resultado:
+
+![image](https://user-images.githubusercontent.com/92825608/205504411-d5bbb22d-0c5d-415f-a6e6-488921f57648.png) / ![image](https://user-images.githubusercontent.com/92825608/205504425-fb529f76-322d-4300-ab1c-9123d6185c0c.png) / ![image](https://user-images.githubusercontent.com/92825608/205504445-94768e60-2128-4ea6-a04a-a8855c6a8362.png) / ![image](https://user-images.githubusercontent.com/92825608/205504478-2e5f605c-feb3-4bab-8a76-c64c6ce007eb.png)
+
+*******
