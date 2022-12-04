@@ -69,3 +69,22 @@ Entrada: 2 16 Saída: O JOGO DUROU 14 HORA(S)
 
 
 *******
+
+### Exercício 05
+
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+
+Entrada: 3 2 Saída : Total: R$ 10.00
+
+Entrada: 2 3 Saída: Total: R$ 13.50
+
+### Resultado: 
+
+![image](https://user-images.githubusercontent.com/92825608/205503354-5c4dd176-1414-465e-ae01-ec561459695c.png) / ![image](https://user-images.githubusercontent.com/92825608/205503512-aca4f32d-7b04-4474-ba0e-c3abb87d2f66.png)
+
+
+
+
+
+*******
+
