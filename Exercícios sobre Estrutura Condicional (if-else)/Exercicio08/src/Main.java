@@ -6,8 +6,8 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Double salario = sc.nextDouble();
-        Double novoSalario;
+        double salario = sc.nextDouble();
+        double novoSalario;
 
         if (salario <= 2000.00) {
             novoSalario = 00.00;
