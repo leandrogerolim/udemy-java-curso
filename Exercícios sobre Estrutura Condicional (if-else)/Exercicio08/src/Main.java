@@ -27,6 +27,7 @@ public class Main {
             if (novoSalario == 0.000){
                 System.out.println(("Isento"));
             }else {
+
                 System.out.printf("R$ %.2f",novoSalario);
             }
 
